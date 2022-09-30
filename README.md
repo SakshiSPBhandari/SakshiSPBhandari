@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sakshi Bhandari</h1>
-<h3 align="center">Full Stack Developer from India</h3>
+<h3 align="center">Machine Learning Developer from India</h3>
 
-- 🌱 I’m currently learning **Angular, NodeJs**
+- 🌱 I’m currently learning **Deep Learning**
 
 - 💬 Ask me about **Data Science**
 
