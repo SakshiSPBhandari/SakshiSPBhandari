@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Sakshi Bhandari</h1>
 <h3 align="center">Machine Learning Developer from India</h3>
 
+LinkedIn Profile :- 
+https://www.linkedin.com/in/sakshi-b-213a201a8
+
+
 - 🌱 I’m currently learning **Deep Learning**
 
 - 💬 Ask me about **Data Science**
