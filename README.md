@@ -1,5 +1,4 @@
 <div align="center">
-  <img src="your-image-url" alt="Sakshi Bhandari" width="180" style="border-radius: 50%; border: 3px solid #ddd;" />
   <h1>Sakshi Prasad Bhandari</h1>
   <h3>Software Engineer & Machine Learning Developer</h3>
   
