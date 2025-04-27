@@ -1,32 +1,45 @@
-<div align="center">
-  <h1>Sakshi Prasad Bhandari</h1>
-  <h3>Software Engineer & Machine Learning Developer</h3>
-  
-  <p><b>🎓 B.E. Computer Engineering</b> | Thadomal Shahani Engineering College</p>
-  
-  <div>
-    <a href="https://www.linkedin.com/in/sakshipb/" style="text-decoration: none;">
-      <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin" alt="LinkedIn" />
-    </a>
-    <a href="mailto:sakshipssb@gmail.com" style="text-decoration: none;">
-      <img src="https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail" alt="Email" />
-    </a>
-  </div>
-</div>
+# 👋 Hi, I'm Sakshi Prasad Bhandari
 
-### 👩‍💻 About Me
-- **Currently:** Software Engineering Intern at Microsoft
-- **Focus:** Deep Learning & Machine Learning
-- **Experience:** Former ML Intern at PayPal Labs
-- **Specializations:** Data Science, Web Development
-- **Achievements:** Pre-finalist, Myntra Hackerramp Women-First Hackathon 2024
+## 💼 Software Engineer & Machine Learning Developer
 
-### 🚀 Key Projects
-- **K-Drama Recommendation System:** Built with Python, PyTorch, Cosine Similarity
-- **Microsoft Jira Integration:** Developed with React & TypeScript
-- **PayPal Analytics Dashboard:** Created with PowerBI & Machine Learning
-- **Social Shopping Integration:** Myntra PWA for Gen Z users
+🎓 **B.E. Computer Engineering** 
+🔭 **Software Engineering Intern at Microsoft**  
+🌱 Passionate about **Deep Learning**, **Machine Learning**, and **Data Science**  
 
-### 💡 Technical Skills
-- **Languages:** Python, JavaScript, TypeScript, SQL, HTML/CSS
-- **Frameworks:** React.js, Node.js, Express, PyTorch, Streamlit
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/sakshipb/)
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail)](mailto:sakshipssb@gmail.com)
+
+---
+
+## 🔍 About Me
+
+- **Current Focus**: Building innovative machine learning solutions and contributing to impactful software engineering projects.
+- **Past Experience**: Former SWE Intern at **Microsoft**
+- **Hackathons**: Pre-finalist in the **Myntra Hackerramp 2024**.
+
+---
+
+## 💡 Technical Skills
+
+**Languages & Frameworks**  
+- **Languages**: Python, JavaScript, TypeScript, SQL, HTML/CSS  
+- **Frameworks**: React.js, Node.js, Express, PyTorch, Streamlit
+
+---
+
+## 🌱 Learning & Growth
+
+I am continuously exploring new technologies, especially in the fields of **Deep Learning**, **AI**, and **Data Science**. Always keen on building real-world solutions that make an impact!
+
+---
+
+## 📫 Get in Touch
+
+Feel free to reach out to me via email or connect with me on [LinkedIn](https://www.linkedin.com/in/sakshipb/).
+
+---
+
+### 🔗 Find More of My Work
+
+- [GitHub Repositories](https://github.com/SakshiSPBhandari)
+
